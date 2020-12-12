@@ -3,7 +3,7 @@ Hi there, My name is Mark Chen from Tamkang University, Taiwan. I am now current
 
 ## Course Introduction
 - Lecture 0: Orientation
-- Lecture 1: Introduction to Deep Learning
+- Lecture 1: Introduction to Deep Learning with Pattern Prediction
 - Lecture 2: Deep Sequence Modeling
 - Software Lab: Introduction to Tensorflow with Music Generation
 - Lecture 3: Deep Computer Vision
