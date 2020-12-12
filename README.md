@@ -1,5 +1,5 @@
 # Introduction to Deep Learning with MIT
-Hi there, My name is Mark Chen from Tamkang University, Taiwan. I am now currently working on the learning material from MIT EECS Dept called 'Introduction to Deep Learning'. It is a good gateway for us to get a deeper look on what is deep learning and its related applications.
+Hi there, My name is Mark Chen from Tamkang University, Taiwan. I am now currently working on the learning material from MIT EECS Dept called "Introduction to Deep Learning". It is a good gateway for us to get a deeper look on what is deep learning and its related applications.
 
 ## Course Introduction
 - Lecture 0: Orientation
