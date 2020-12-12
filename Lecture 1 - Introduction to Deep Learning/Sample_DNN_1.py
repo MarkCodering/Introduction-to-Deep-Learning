@@ -1,20 +1,16 @@
+import tensorflow as tf
+
 weight = 0.5
+bias = 0
 sum = 0
 
-input_value = [5]
+input_vector = [0.1, 0.5, 0.8]
 
-#Data Input (Array)
-for i in range(0,5):
-    input_value[i] = input()
+input_value = 
 
-#Summation
-for s in range(0, 5):
-    sum =+ input_value[s]
+def nerual_network()
 
-def nerual_network(input_value, weight):
-    prediction = input_value * sum
-    return prediction
+#Activation Function (Non-linearity)
+output = tf.math.sigmoid(sum)
 
-prediction = nerual_network(input_value, weight)
-
-print(prediction)
+print(output)
